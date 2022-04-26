@@ -1,0 +1,8 @@
+The vk_api file is a ready-made script for collecting information using VK.API(ENG)
+The data_api_vk file is a file with settings, by default it is configured to collect comments from the album in VK, via VK.API(END)
+You need to write your secret token with extended access rights to the 'TOKEN' variable (you need to get it first)(END)
+
+
+Файл vk_api, это готовый скрипт для сбора информации с помощью VK.API(RU)
+Файл data_api_vk, это файл с настройками, по умолчанию он настроен на сбор коментариев с альбома в VK, через VK.API(RU)
+В переменную  'TOKEN' необходимо записать свой секретный токен с расширенными правами доступа (предварительно его необходимо получить)(RU)
